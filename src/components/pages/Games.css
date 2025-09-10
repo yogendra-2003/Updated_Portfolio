@@ -1,0 +1,87 @@
+.games-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
+.games-subtitle {
+  font-size: 1.2rem;
+  color: #aaa;
+  margin-bottom: 40px;
+}
+
+.icon {
+  color: #9b5de5;
+  margin-right: 10px;
+}
+
+.games-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.btn {
+  padding: 15px 25px;
+  border-radius: 50px;
+  font-size: 1rem;
+  text-decoration: none;
+  font-weight: bold;
+  transition: all 0.3s ease-in-out;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+
+.btn-purple {
+  background-color: #9b5de5;
+  color: white;
+}
+
+.btn-purple:hover {
+  background-color: #8338ec;
+}
+
+.btn-teal {
+  background-color: #00b4d8;
+  color: white;
+}
+
+.btn-teal:hover {
+  background-color: #0096c7;
+}
+
+.btn-green {
+  background-color: #06d6a0;
+  color: white;
+}
+
+.btn-green:hover {
+  background-color: #04c38c;
+}
+.games-section {
+  position: relative;
+  background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.games-container {
+  text-align: center;
+  color: white;
+  padding: 60px 20px;
+  min-height: 100vh;
+  z-index: 1; /* so it stays above particles */
+}
+.footer {
+  background: #0f0c29; /* your gradient or color */
+  color: white;
+  text-align: center;
+  padding: 150px;
+  margin-top: auto; /* pushes footer down */
+}
