@@ -85,7 +85,3 @@ Give a ⭐ if you like this website!
 👉 You just need to:
 - Replace `[https://priya06-portfolio.vercel.app/]` with your actual **Vercel live link**.  
 - Update the screenshot path (`./Images/readme-img.png`) if you want to show a demo image of your site.  
-
-Would you like me to also **design a demo screenshot template** (like a nice preview image of your portfolio) that you can put in your README?
-
-this is okayy 
