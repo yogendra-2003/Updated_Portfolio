@@ -21,11 +21,10 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/Priyanagarajan06/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/Priyanagarajan06/Portfolio/issues/new?assignees=&labels=bug&template=bug_report.md&title=">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/Priyanagarajan06/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/Priyanagarajan06/Portfolio/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=">Request Feature</a>
 </h3>
-
 ---
 
 ## 🚀 TL;DR
