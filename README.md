@@ -1,10 +1,10 @@
 <h2 align="center">
   Portfolio Website - v1.0<br/>
-  <a href="https://your-portfolio-link.vercel.app" target="_blank">Live Demo</a>
+  <a href="https://priya06-portfolio.vercel.app/" target="_blank">Live Demo</a>
 </h2>
 
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Images/readme-img.png" />
 </div>
 
 <br/>
@@ -83,8 +83,8 @@ Give a ⭐ if you like this website!
 ---
 
 👉 You just need to:
-- Replace `https://your-portfolio-link.vercel.app` with your actual **Vercel live link**.  
-- Update the screenshot path (`./Images/readme-img1.png`) if you want to show a demo image of your site.  
+- Replace `[https://priya06-portfolio.vercel.app/]` with your actual **Vercel live link**.  
+- Update the screenshot path (`./Images/readme-img.png`) if you want to show a demo image of your site.  
 
 Would you like me to also **design a demo screenshot template** (like a nice preview image of your portfolio) that you can put in your README?
 
