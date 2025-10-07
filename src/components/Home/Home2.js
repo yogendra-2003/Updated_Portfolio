@@ -18,22 +18,22 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and have been exploring ever since 🚀
+              I am interested in programming and stuffs and have been exploring ever since 🚀
   <br />
   <br />
-  I'm passionate about building digital products that solve real-world problems, especially in the field of Machine Learning and modern web development.
+  I'm passionate about building digital products that solve real-world problems, especially in the field of modern web development.
   <br />
   <br />
   My field of Interest's are building new&nbsp;
   <i>
     <b className="purple">Web Technologies and Products</b> and
     also in areas related to{" "}
-    <b className="purple">Machine Learning.</b>
+    <b className="purple">Artificial Intelligence.</b>
   </i>
   <br />
   <br />
   I am proficient in programming languages like{" "}
-  <b className="purple">Java</b>,{" "}
+  <b className="purple">Python</b>,{" "}
   <b className="purple">HTML</b>, and{" "}
   <b className="purple">CSS</b>.
   <br />
@@ -64,7 +64,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/Priyanagarajan06/"
+                  href="https://github.com/yogendra-2003/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -75,7 +75,7 @@ function Home2() {
           
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/priyadharshini-nagarajan-5b5977305/"
+                  href="https://www.linkedin.com/in/yogendra2k3/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -85,7 +85,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/_priyaaaa._____/?hl=en"
+                  href="https://www.instagram.com/__._yogendra_.__/?hl=en"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

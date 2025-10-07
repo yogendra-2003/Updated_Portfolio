@@ -3,7 +3,7 @@ import { Row } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 
 function GFGProfile() {
-  const url = "https://www.geeksforgeeks.org/user/priyadharshini_nagarajan/";
+  const url = "https://www.geeksforgeeks.org/user/yogendn4n8/";
 
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>

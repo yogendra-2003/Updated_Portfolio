@@ -13,16 +13,16 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Priya</h3>
+          <h3>Designed and Developed by Yogendra</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} NP</h3>
+          <h3>Copyright © {year} YR</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/Priyanagarajan06/"
+                href="https://github.com/yogendra-2003/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -33,7 +33,7 @@ function Footer() {
   
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/priyadharshini-nagarajan-5b5977305/"
+                href="https://www.linkedin.com/in/yogendra2k3/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/_priyaaaa._____/?hl=en"
+                href="https://www.instagram.com/__._yogendra_.__/?hl=en"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
